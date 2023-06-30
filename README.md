@@ -1,2 +1,2 @@
-# Exersice_04ForLoops
+# Exercise_04ForLoops
  FirstStepsInCoding
